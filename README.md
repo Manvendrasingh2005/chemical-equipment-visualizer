@@ -49,15 +49,15 @@ npm run electron
 ```
 ### 3. Usage Instructions
 
-Modern Dashboard: Launch the app to see the animated "Chemical Equipment Visualizer" interface with pulse effects.
-Data Ingestion: Click the "Select CSV File" box (which glows on hover) to upload your sensor logs.
-Real-Time Visuals:
-Trend Analysis: Instantly view the Temperature Trend line chart drawing itself from left to right.
-Metric Comparison: Watch the Pressure & Flow bar charts grow to represent the data.
-Global History: Scroll down to the Processing History table to see status logs of all previous uploads, fetched directly from the backend database.
-Export Reports: Click the "Download Report" button to generate and save a PDF summary of the current analysis.
+* **Modern Dashboard**: Launch the app to see the animated "Chemical Equipment Visualizer" interface with pulse effects.
+* **Data Ingestion**: Click the "Select CSV File" box (which glows on hover) to upload your sensor logs.
+* **Trend Analysis**: Instantly view the Temperature Trend line chart drawing itself from left to right.
+* **Metric Comparison**: Watch the Pressure & Flow bar charts grow to represent the data.
+* **Global History**: Scroll down to the Processing History table to see status logs of all previous uploads, fetched directly from the backend database.
+* **Export Reports**: Click the "Download Report" button to generate and save a PDF summary of the current analysis.
+
+### 4. Academic Details
+
 * **Developer**: Kunwar Manvendra Pratap Singh
-
 * **Institution**: VIT Bhopal University
-
 * **Project Purpose**: Technical Portfolio for FOSSEE Internship Application.
