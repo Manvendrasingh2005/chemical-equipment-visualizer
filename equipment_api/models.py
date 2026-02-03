@@ -1,6 +1,7 @@
 from django.db import models
 
 class EquipmentAnalysis(models.Model):
+    file = models.FileField(upload_to='csv_uploads/', null=True, blank=True)
     # Meta information
     filename = models.CharField(max_length=255)
     upload_date = models.DateTimeField(auto_now_add=True)
