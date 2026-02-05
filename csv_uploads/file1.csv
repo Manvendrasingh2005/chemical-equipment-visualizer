@@ -1,0 +1,21 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Condenser-985,Condenser,64,3.3,78
+Condenser-835,Condenser,206,3.3,149
+Pump-940,Pump,128,5.2,99
+HeatExchanger-578,HeatExchanger,80,10.2,157
+Compressor-871,Compressor,101,5.7,97
+Pump-953,Pump,165,9.0,103
+HeatExchanger-759,HeatExchanger,116,2.3,131
+Pump-536,Pump,81,9.7,97
+Valve-296,Valve,215,9.9,130
+Reactor-856,Reactor,61,10.6,172
+Tank-520,Tank,169,3.4,123
+Valve-920,Valve,120,7.3,134
+Reactor-938,Reactor,232,7.6,108
+Reactor-611,Reactor,181,8.4,130
+Tank-376,Tank,209,11.9,162
+Reactor-883,Reactor,222,5.6,93
+Condenser-305,Condenser,68,7.8,160
+Reactor-510,Reactor,156,2.4,164
+Condenser-347,Condenser,93,3.6,94
+Reactor-800,Reactor,104,8.7,176
